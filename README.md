@@ -50,7 +50,7 @@ Expense Tracker is a professional-grade Python application developed as Project 
 
 ```bash
 # Clone the repository
-git clone https://github.com/cybershark-lucky/expense-tracker.git
+git clone https://github.com/cybersharklucky-sketch/decode-labs-project2.git
 
 # Navigate to project directory
 cd decode-labs-project2
